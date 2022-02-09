@@ -6,9 +6,9 @@
  - Kévin Terrisson : https://github.com/KevinTerrisson
  
 ** Qu'est ce qu'un snake ? :
-  Le jeu snake est un jeu ou le joueur incarne un serpent glouton voulant manger des fruit a tout prix. Seulement ces dernier le font grossir, 
-  devenant de plus en plus gros il fini par se géner. Cette gène ne le dérange pas plus que ca et continue ca course vers la norriture jusqu'a se marcher 
-  dessue et mourir.
+  Le jeu snake est un jeu où le joueur incarne un serpent glouton voulant manger des fruit à tout prix. Seulement ces dernier le font grossir, 
+  devenant de plus en plus gros il finit par se gêner. Cette gène ne le dérange pas plus que ca et continue ça course vers la nourriture jusqu’à se marcher 
+  dessus et mourir.
 
 ** Outils à installer
   #+BEGIN_SRC sh
@@ -40,7 +40,7 @@
     - Nous utilisons la flèche décendante , pour aller bas la droite de l'écran
     - Nous utilisons la flèche montatente, pour aller vers le haut de l'écran
     - Quand vous perdez, la fenêtre se ferme, ce qui fait que vous devez relancer le jeu pour pouvoir refaire une partie
-    - /!\ Attention a ne pas toucher les mur car ceux ci vont causer votre perte.
+    - /!\ Attention à ne pas toucher les murs car ceux ci vont causer votre perte.
   
 ** Ressources
 *** Langage C++
